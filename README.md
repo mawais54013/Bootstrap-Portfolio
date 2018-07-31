@@ -4,7 +4,7 @@ Portfoilo website using bootstrap with html and css
 
 # Link to deployed site
 
-[Bootstrap-Portfolio](file:///Users/muhammadawais/Desktop/Bootstrap-Portfolio/index.html)
+[Bootstrap-Portfolio](https://mawais54013.github.io/Bootstrap-Portfolio/)
 
 # Images
 ![portfolio](images/Screen1.png)
